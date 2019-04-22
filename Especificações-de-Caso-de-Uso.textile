@@ -3,5 +3,5 @@
 
 [CRIAR CADASTRO TÉCNICO](https://github.com/leosilvaalves/Projeto---Desenvolvimento-de-Sistemas-II/files/3101901/Caso.de.uso.CRIAR.CADASTRO.TECNICO.docx) - feito por Larissa Silveira Bonifacio 
 
-[Criar Cadastro.docx](https://github.com/leosilvaalves/Projeto---Desenvolvimento-de-Sistemas-II/files/3105096/Criar.Cadastro.docx) - feito por Fellipe Lima Calixto dos Santos
+[Criar Cadastro CLIENTE](https://github.com/leosilvaalves/Projeto---Desenvolvimento-de-Sistemas-II/files/3105096/Criar.Cadastro.docx) - feito por Fellipe Lima Calixto dos Santos
 
