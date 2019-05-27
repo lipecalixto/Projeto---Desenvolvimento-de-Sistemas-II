@@ -12,5 +12,4 @@
 
 
 
-![SequenceDiagram1](https://user-images.githubusercontent.com/48017842/58424812-ac7ad600-806e-11e9-8037-27af69e66e7c.jpg)
 
