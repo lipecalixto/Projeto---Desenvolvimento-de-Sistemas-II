@@ -11,5 +11,3 @@
 ### Link para download do Diagrama de Sequência [Afiliar-se ao Sistema](https://user-images.githubusercontent.com/48100023/58060228-bec4b380-7b46-11e9-939a-f3f5f950410c.jpg)
 
 
-
-
